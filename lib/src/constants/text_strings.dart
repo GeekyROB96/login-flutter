@@ -83,4 +83,4 @@ const String tDelete  ="Delete";
 
 const String tJoined = "Joined";
 
-const String tJoinedAt = "31 October 2022";
+const String tJoinedAt = "28 November 2023";
